@@ -1,0 +1,31 @@
+body{
+    background-color: #fff;
+}
+
+h3{
+    color: #f26627;
+}
+
+.app1{
+    width: 800px;
+    min-height: 500px;
+    margin: 50px auto;
+}
+
+#to-do-form input{
+    /*background-color: lightgreen;*/
+    width: 500px;
+    height: 40px;
+
+}
+
+#to-do-form button{
+    color: white;
+    height: 25px;
+    width: 90px;
+    border-radius: 3px;
+    border: 0;
+    margin-left: 10px;
+    background-color: darkblue;
+    
+}
